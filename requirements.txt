@@ -1,0 +1,4 @@
+RealtimeSTT
+RealtimeTTS
+cohere
+python-dotenv
